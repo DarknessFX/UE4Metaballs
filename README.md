@@ -25,7 +25,7 @@ v1.0 - Released.
 ## Credits
 
 Unreal Engine by Epic Games - https://www.unrealengine.com/ .<br/>
-Ryan Brucks and Sam Deiter from Epi Games for the lesson and tutorial.<br/>
+Ryan Brucks and Sam Deiter from Epic Games for the lesson and tutorial.<br/>
 
 ## License
 
