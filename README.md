@@ -14,11 +14,9 @@
 
 # UE4Metaballs
 
-Project with the lessons from <b>Custom Material Node: How to use and create Metaballs | Live Training | Unreal Engine</b>. 
+Project with the lessons from <b>Custom Material Node: How to use and create Metaballs | Live Training | Unreal Engine</b> - <a href="https://www.youtube.com/embed/HaUAfgrZjlU" target="blank">Youtube</a>. 
 
 Compatible with UE4.23.1 and newer. If anyone is interested in older versions I can share the materials as screenshots and text format.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaUAfgrZjlU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Versioning
 
